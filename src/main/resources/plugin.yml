@@ -1,0 +1,6 @@
+name: FluffMOTD
+version: ${project.version}
+main: me.lojosho.fluffmotd.FluffMOTD
+api-version: 1.16
+authors: [ LoJoSho ]
+description: MOTD handler for Fluffers
